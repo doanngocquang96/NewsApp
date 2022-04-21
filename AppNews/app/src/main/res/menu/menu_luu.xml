@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/luuTinTuc"
+        android:title="Lưu tin tức"
+        android:icon="@drawable/ic_baseline_trending_up_24" />
+
+</menu>

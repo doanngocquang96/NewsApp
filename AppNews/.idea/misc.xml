@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_cate1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_cate2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_cate3.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_cate_news.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_hot_news.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/layout/fragment_hot_news2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AppNews/app/src/main/res/menu/menu_btm_navi.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/br.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/danh_muc_icon.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/danh_muc_item.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/ic_baseline_new_24.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/icon_danhmuc.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/drawable/news.xml" value="0.2890625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/activity_detail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/activity_detail2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/activity_tin_da_luu.xml" value="0.26871794871794874" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/activity_tin_da_xem.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/content_test.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_cate_news.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_danh_muc.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_hot_news.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/fragment_new_news.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/layout/thegioi_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_btm_navi.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_daxem.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_luu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_tinDaXem.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_xoa_da_luu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/Downloads/AppNews/app/src/main/res/menu/menu_xoa_da_xem.xml" value="0.1234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.DanhMucFragment">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_tintucnoibat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Danh mục"
+                android:textColor="@color/myColor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+
+        <LinearLayout
+            android:id="@+id/tinDaXem"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginVertical="10dp"
+            android:background="@drawable/danh_muc_item"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginStart="5dp"
+                android:background="@drawable/ic_baseline_history_24"
+                android:backgroundTint="@color/myColor"
+                android:layout_gravity="center" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="Các tin tức đã xem"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tinDaluu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginVertical="10dp"
+            android:background="@drawable/danh_muc_item"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginStart="5dp"
+                android:background="@drawable/ic_baseline_bookmark_border_24"
+                android:backgroundTint="@color/myColor"
+                android:layout_gravity="center" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="Các tin tức đã lưu"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/aboutApp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginVertical="10dp"
+            android:background="@drawable/danh_muc_item"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginStart="5dp"
+                android:background="@drawable/ic_baseline_info_24"
+                android:backgroundTint="@color/myColor"
+                android:layout_gravity="center" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center"
+                android:text="Thông tin ứng dụng"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/HotNews"
+        android:title="Tin nổi bật"
+        android:icon="@drawable/ic_baseline_trending_up_24"/>
+
+    <item android:id="@+id/NewNews"
+        android:title="Tin mới nhất"
+        android:icon="@drawable/ic_baseline_new_24"/>
+
+    <item android:id="@+id/CateNews"
+        android:title="Tin chuyên mục"
+        android:icon="@drawable/ic_baseline_category_24"/>
+
+    <item android:id="@+id/DanhMuc"
+        android:title="Danh mục"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"/>
+
+</menu>

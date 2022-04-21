@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CateFrag.Cate1Frag"
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_tintucnoibat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tin tức mới nhất"
+                android:textColor="@color/myColor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_alignParentRight="true"
+                android:layout_width="150dp"
+                android:layout_marginEnd="12dp"
+                android:layout_height="25dp"
+                android:src="@drawable/vnexpress"
+                />
+
+        </RelativeLayout>
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_hot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:layout_marginHorizontal="2dp"
+        android:layout_marginTop="2dp"
+        android:fitsSystemWindows="true"
+        android:padding="2dp" />
+
+
+
+</RelativeLayout>
